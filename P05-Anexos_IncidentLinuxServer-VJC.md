@@ -9,25 +9,25 @@
 
 ## 1. Declaración de abstención y tacha
 
-Yo, {NOMBRE ANALISTA}, con identificación _011002-A_, en calidad de Equipo Pericial Informático, declaramos formalmente lo siguiente:
+Yo, Víctor Jiménez Corada, con identificación _011002-A_, en calidad de Perito Forense Informático, declaro formalmente lo siguiente:
 
 1. Abstención
 
-   No tenemos interés directo ni indirecto en los hechos objeto del presente informe pericial, ni relación alguna con las partes involucradas que pueda comprometer nuestra imparcialidad, conforme a lo establecido en la normativa _ISO-27000_.
+   No tengo interés directo ni indirecto en los hechos objeto del presente informe pericial, ni relación alguna con las partes involucradas que pueda comprometer mi imparcialidad, conforme a lo establecido en la normativa _ISO-27000_.
 
 2. Tacha
 
-   Declaramos que no existen motivos de tacha que afecten nuestra idoneidad, independencia o credibilidad como peritos en este caso. No poseemos vínculos familiares, laborales ni de cualquier otra índole con las partes intervinientes.
+   Declaro que no existen motivos de tacha que afecten mi idoneidad, independencia o credibilidad como peritos en este caso. No poseo vínculos familiares, laborales ni de cualquier otra índole con las partes intervinientes.
 
 3. Confirmación de Imparcialidad
 
-   Nuestros análisis, conclusiones y opiniones periciales se fundamentan exclusivamente en las evidencias digitales recibidas y en las metodologías técnicas reconocidas por la disciplina de informática forense, sin influencia externa de ningún tipo.
+   Mis análisis, conclusiones y opiniones periciales se fundamentan exclusivamente en las evidencias digitales recibidas y en las metodologías técnicas reconocidas por la disciplina de informática forense, sin influencia externa de ningún tipo.
 
-En virtud de lo anterior, asumimos la responsabilidad de actuar con total objetividad y profesionalismo en la elaboración y presentación del presente informe.
+En virtud de lo anterior, asumo la responsabilidad de actuar con total objetividad y profesionalismo en la elaboración y presentación del presente informe.
 
 ## 2. Juramento de promesa
 
-Nosotros, Grupo 3, identificados con _011002-A_, en calidad de Equipo de Peritaje Forense Informático, bajo juramento, prometemos solemnemente lo siguiente:
+Yo, Víctor Jiménez Corada, identificado con _011002-A_, en calidad de Perito Forense Informático, bajo juramento, prometo solemnemente lo siguiente:
 
 1. Realizar el análisis técnico del presente caso conforme a los principios de objetividad, veracidad y rigurosidad científica propios de la disciplina de informática forense.
 
@@ -39,11 +39,11 @@ Nosotros, Grupo 3, identificados con _011002-A_, en calidad de Equipo de Peritaj
 
 Declaro bajo juramento que honraré este compromiso en la ejecución de mis funciones como perito en este caso.
 
-En Cádiz a {DÍA} de {MES} de 2025
+En Cádiz a 24 de Marzo de 2025
 
 Fdo:
 
-{FIRMA}
+<img src="./img/victorSignWhite.png" width="200">
 
 ## 3. Figuras
 
