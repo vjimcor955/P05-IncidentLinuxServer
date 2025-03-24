@@ -60,12 +60,12 @@
 
 #### 1. Información del caso
 
-| **Sección**           | **Campo**               |
-| --------------------- | ----------------------- |
-| Número de Caso        | {NUMERO DE CASO}        |
-| Tipo de Investigación | {TIPO DE INVESTIGACIÓN} |
-| Fecha de Adquisición  | {FECHA DE ADQUISICIÓN}  |
-| Lugar de Adquisición  | {DIRECCIÓN}             |
+| **Sección**           | **Campo**                            |
+| --------------------- | ------------------------------------ |
+| Número de Caso        | P05                                  |
+| Tipo de Investigación | Analisis Forense                     |
+| Fecha de Adquisición  | 13 de marzo de 2025, 08:00           |
+| Lugar de Adquisición  | C/ Amiel, s/n – 11012, Cádiz (Cádiz) |
 
 #### 2. Descripción de la evidencia original
 
@@ -78,25 +78,25 @@
 
 #### 3. Preservación de la evidencia original
 
-| **Sección**             | **Campo**          |
-| ----------------------- | ------------------ |
-| Fecha de Entrega        | {FECHA DE ENTREGA} |
-| Hora de Entrega         | {HORA DE ENTREGA}  |
-| Recibido por            | {NOMBRE}           |
-| Ubicación en el Juzgado | {DIRECCIÓN}        |
+| **Sección**             | **Campo**                            |
+| ----------------------- | ------------------------------------ |
+| Fecha y Hora de Entrega | 13 de marzo de 2025, 08:00           |
+| Recibido por            | Manuel Jesús Rivas Sández            |
+| Ubicación en el Juzgado | C/ Amiel, s/n – 11012, Cádiz (Cádiz) |
 
 #### 4. Creación y verificación de copias
 
 | **Sección**                | **Campo**                      |
 | -------------------------- | ------------------------------ |
-| Fecha y Hora de Creación   | {FECHA Y HORA}                 |
-| Técnico Responsable        | {NOMBRE ANALISTA}              |
+| Fecha y Hora de Creación   | 13 de marzo de 2025, 08:00     |
+| Técnico Responsable        | Víctor Jiménez                 |
+| Tipo de Dispositivo        | {TIPO Y TAMAÑO}                |
 | Hash MD5 de la Copia       | {HASH MD5}                     |
 | Hash SHA1 de la Copia      | {HASH SHA1}                    |
 | Hash SHA-256 de la Copia   | {HASH SHA-256}                 |
 | Verificación de Integridad | {Si LOS HASHES COINCIDEN O NO} |
-| Entregado a                | {NOMBRE}                       |
-| Fecha y Hora de Entrega    | {FECHA Y HORA}                 |
+| Entregado a                | Manuel Jesús Rivas Sández      |
+| Fecha y Hora de Entrega    | 26 de marzo de 2025, 23:45     |
 
 ## 5. Análisis
 
