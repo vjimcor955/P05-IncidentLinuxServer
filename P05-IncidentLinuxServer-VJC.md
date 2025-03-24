@@ -127,3 +127,11 @@
 La Declaración de abstención y tacha, el Juramento de promesa, así como las figuras y hallazgos relacionados con el caso, se encuentran recogidos en el siguiente anexo:
 
 [Proyecto 5: Incident on Linux Server I - Anexo](./P05-Anexos_IncidentLinuxServer-VJC.md)
+
+---
+
+Documento redactado por el perito forense informático Víctor Jiménez Corada.
+
+Fdo:
+
+<img src="./img/victorSignWhite.png" width="200">
