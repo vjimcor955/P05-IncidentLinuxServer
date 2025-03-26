@@ -51,17 +51,44 @@ Fdo:
 
 ![verifyHashes.png](./img/verifyHashes.png)
 
+- Figura 2. Creación de `passwd.txt`:
+
+![stringRAM.png](./img/stringRAM.png)
+
 ## 4. Hallazgos
 
-{HALLAZGOS NUMERADOS}
+- Hallazgo 1:
 
-| Campo                         | Valor                                   |
-| ----------------------------- | --------------------------------------- |
-| Ruta de localización completa | {RUTA COMPLETA DEL DISCO}               |
-| Contenido del fichero         | {FOTO SI EL CONTENIDO SE PUEDE MOSTRAR} |
-| MAC time                      | {MAD TIME}                              |
-| Tamaño lógico del fichero     | {TAMAÑO LÓGICO DEL FICHERO}             |
-| Valor hash del fichero        | {HASH DEL FICHERO}                      |
+| Campo                         | Valor                                                                             |
+| ----------------------------- | --------------------------------------------------------------------------------- |
+| Ruta de localización completa | /var/log/apache2/access.log                                                       |
+| Contenido del fichero         | ![attackLogs.png](./img/attackLogs.png)                                           |
+| MAC time                      | **Modificado**: 20/05/2022 15:21:03 **Accedido**: 28/04/2010 21:19:51 **Creado**: |
+| Tamaño lógico del fichero     | 3.494 bytes                                                                       |
+| Valor hash del fichero (MD5)  | a71e80bd1ad541352d5907628f1bb3ce                                                  |
+| Valor hash del fichero (SHA1) | 640b5541fb9d263389b923ad786701ab149f84f9                                          |
+
+- Hallazgo 2:
+
+| Campo                         | Valor                                                                             |
+| ----------------------------- | --------------------------------------------------------------------------------- |
+| Ruta de localización completa | /var/log/www/ping.php                                                             |
+| Contenido del fichero         | ![attackLogs.png](./img/pingphpContent.png)                                       |
+| MAC time                      | **Modificado**: 20/05/2022 15:09:37 **Accedido**: 20/05/2022 15:09:46 **Creado**: |
+| Tamaño lógico del fichero     | 542 bytes                                                                         |
+| Valor hash del fichero (MD5)  | d3f424335dac2d8af26ad3f0a99a1a7d                                                  |
+| Valor hash del fichero (SHA1) | 525132ce24328226594b0f97d0ef2d3f8b7a422e                                          |
+
+- Hallazgo 3:
+
+| Campo                         | Valor                                                                             |
+| ----------------------------- | --------------------------------------------------------------------------------- |
+| Ruta de localización completa | /var/log/www/passwd.txt                                                           |
+| Contenido del fichero         | ![passwdtxtContent.png](./img/passwdtxtContent.png)                               |
+| MAC time                      | **Modificado**: 20/05/2022 15:13:49 **Accedido**: 20/05/2022 15:13:49 **Creado**: |
+| Tamaño lógico del fichero     | 1.626 bytes                                                                       |
+| Valor hash del fichero (MD5)  | 7cd7b33f99cc526d01473b553e1042d5                                                  |
+| Valor hash del fichero (SHA1) | 2d8c72a744c486342f5ec770ac27e8dd7b2f2ee0                                          |
 
 ---
 
